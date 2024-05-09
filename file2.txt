@@ -1,0 +1,5 @@
+Git is very crucial for version control.
+Branches are used in the following scenarios:
+When you want to create a new feature without breaking your codebase
+When adding features that are not important to others, on a collaborative project
+
